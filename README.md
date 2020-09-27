@@ -1,2 +1,2 @@
 # ToDoApp_VueJS_Firebase
-ToDo App using Vue.js and Firabase
+This project is a todo app. Web design made with Vue.js and database made with Firebase.
